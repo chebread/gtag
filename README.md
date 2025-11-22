@@ -15,5 +15,5 @@ make -s build
 
 ## License
 This project is licensed under the **Hippocratic License 3.0 (HL-3.0)**.  
-By using this software, you agree to the terms and conditions set forth in the [LICENSE](./.github/LICENSE) file.  
+By using this software, you agree to the terms and conditions set forth in the [LICENSE](./LICENSE) file.  
 For more information about this license, please visit [firstdonoharm.dev](https://firstdonoharm.dev/).
