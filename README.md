@@ -1,6 +1,13 @@
 # gtag
 Automate your Git tagging workflow.
 
+## License
+Copyright &copy; 2021-2025 Cha Haneum
+
+This project is licensed under the **Hippocratic License 3.0 (HL-3.0)**.  
+By using this software, you agree to the terms and conditions set forth in the [LICENSE](./LICENSE) file.  
+For more information about this license, please visit [firstdonoharm.dev](https://firstdonoharm.dev/).
+
 ## Development
 ```shell
 make run
@@ -12,8 +19,3 @@ make -s run
 
 make -s build
 ```
-
-## License
-This project is licensed under the **Hippocratic License 3.0 (HL-3.0)**.  
-By using this software, you agree to the terms and conditions set forth in the [LICENSE](./LICENSE) file.  
-For more information about this license, please visit [firstdonoharm.dev](https://firstdonoharm.dev/).
